@@ -1,0 +1,4 @@
+:-2147467259:NI_Database_API.lvlib:DB Tools Open Connec (String).vi->DB Connection handler.vi->Login UI.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->DB Connection handler.vi->Login UI.vi
+:-2147467259:NI_Database_API.lvlib:DB Tools Open Connec (String).vi->DB Connection handler.vi->Login UI.vi<ERR>ADO Error: 0x80004005
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified in NI_Database_API.lvlib:DB Tools Open Connec (String).vi->DB Connection handler.vi->Login UI.vi

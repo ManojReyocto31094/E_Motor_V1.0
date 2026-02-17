@@ -1,0 +1,42 @@
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Validate Login.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Validate Login.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Validate Login.vi->Login UI.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->Validate Login.vi->Login UI.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->User Settings.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->User Settings.vi
+:-2147217865:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->User Settings.vi<ERR>ADO Error: 0x80040E37
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'userdetails'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Add User.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Delete Data.vi->User Settings.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'vitthal_1'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Delete Data.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Delete Data.vi->User Settings.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid column name 'vitthal_1'. in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Delete Data.vi->User Settings.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:-2147217900:NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi<ERR>ADO Error: 0x80040E14
+Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near '`'. in NI_Database_API.lvlib:Conn Execute.vi->Audit Trail.vi->Login UI.vi
+:7:Open VI Reference in Run VI Dynamically.vi->Login UI.vi<APPEND>
+VI Path: <b>D:\Projects\FEV\Login\Home Screen.vi</b>
+:7:Open VI Reference in Run VI Dynamically.vi->Login UI.vi<APPEND>
+VI Path: <b>D:\Projects\FEV\Login\Home Screen.vi</b>
