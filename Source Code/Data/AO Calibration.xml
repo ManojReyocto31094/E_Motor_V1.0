@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>18.0.1</Version>
+<Version>25.3.2f2</Version>
 <Array>
 <Name>AO</Name>
 <Dimsize>20</Dimsize>

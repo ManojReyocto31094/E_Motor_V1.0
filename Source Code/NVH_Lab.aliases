@@ -1,9 +1,8 @@
 [My Computer]
-My Computer = "172.30.201.10"
+My Computer = "192.168.1.7"
 
 [NI-cRIO9082-AKZ1]
 NI-cRIO9082-AKZ1 = "192.168.17.43"
 
 [NI-NI9148-AKZ11]
 NI-NI9148-AKZ11 = "192.168.17.44"
-
