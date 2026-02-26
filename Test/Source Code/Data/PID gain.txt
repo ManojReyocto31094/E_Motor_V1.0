@@ -1,3 +1,0 @@
-proportional 	0.500000
-integra	0.003906
-derivative	0.003906

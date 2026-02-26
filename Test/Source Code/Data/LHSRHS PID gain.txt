@@ -1,6 +1,0 @@
-proportional 	0.001100
-integra	0.001000
-derivative	0.000100
-P	0.001000
-I	0.001000
-D	0.000111
